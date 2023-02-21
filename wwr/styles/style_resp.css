@@ -1,0 +1,45 @@
+
+body {
+    background-color: #f5efef; 
+}
+header {
+    text-align: center;
+    background-color:rgba(34, 169, 160, 0.7);
+}
+nav a:hover {
+    background-color: rgb(255, 253, 253);
+    color: #1d2ee4;
+}
+nav a {
+    text-align: center;
+    color: #181918;
+    text-decoration: none;
+}    
+  
+.icon {
+    width: 80px;
+}      
+
+#background {
+    height: 725px;
+}
+footer p {
+    font-size: 1.2em;
+    text-align: center;
+} 
+
+div  { text-align: center;
+
+
+}
+
+main{
+
+    text-align: center;
+}
+
+
+footer p a:hover {
+    text-decoration: underline;
+    color: #e4911d;
+}   
